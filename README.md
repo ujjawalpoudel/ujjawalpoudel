@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Poudel</h1>
-<h3 align="center">A passionate Python developer from Nepal</h3>
+<h3 align="center">A passionate Python programmer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalpoudel" /> </p>
 
@@ -9,20 +9,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ujjawalpoudel](https://github.com/ujjawalpoudel)
 
-- 💬 Ask me about **python**
-
 - 📫 How to reach me **ujjawalpoudel@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@ujjawalpoudel/inceptionnet-c6b5aa40eccf
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ujjawalpoudel" height="30" width="40" /></a>
+<a href="https://dev.to/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
 <a href="https://twitter.com/ujwalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujwalpoudel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ujjawalpoudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujjawalpoudel/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
 <a href="https://kaggle.com/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
 <a href="https://fb.com/ujjawal.poudel.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujjawal.poudel.3" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
