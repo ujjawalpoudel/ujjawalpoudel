@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Poudel</h1>
-<h3 align="center">Experienced software engineer with a background in computer engineering and a PG in Artificial Intelligence and Machine Learning, skilled in Python and AWS. Worked as a backend engineer, implementing Graphql, Amazon Cognito, and Lambda functions, and as a software engineer, implementing HL7 messages and data visualization using Highcharts. Experience with machine learning and AI projects, including deep learning for plant disease detection.</h3>
+<h3 align="center">Experienced software engineer with a background in computer engineering and a PG in Artificial Intelligence and Machine Learning, skilled in Python and AWS. Worked as a backend engineer, implementing Graphql, Amazon Cognito, and Lambda functions, and as a software engineer. Experience with machine learning and AI projects, including deep learning for plant disease detection.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalpoudel" /> </p>
 
