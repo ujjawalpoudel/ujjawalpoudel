@@ -1,36 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ujjawal Poudel</h1>
-<h3 align="center">Software Engineer specializing in Python, AWS, and AI/ML | Expertise in Backend Development, Graphql, and Deep Learning for Plant Disease Detection</h3>
+<h1 align="center">Ujjawal Poudel</h1>
+<h3 align="center">Senior Python Engineer | Backend Systems | AWS | AI/ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalpoudel&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalpoudel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalpoudel" alt="ujjawalpoudel" /></a> </p>
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 👯 I’m looking to collaborate on [Chatbot With Flask Python](https://github.com/ujjawalpoudel/chatbot-with-flask-python)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ujjawalpoudel?tab=repositories](https://github.com/ujjawalpoudel?tab=repositories)
-
-- 📝 I regularly write articles on [https://ghumante.com/author/ujjawal/](https://ghumante.com/author/ujjawal/)
-
-- 💬 Ask me about **Python, AWS Lambda**
-
-- 📫 How to reach me **ujjawalpoudel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
-<a href="https://twitter.com/ujwalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujwalpoudel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
-<a href="https://kaggle.com/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
-<a href="https://medium.com/@ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ujjawalpoudel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawalpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawalpoudel" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems, intelligent applications, and developer-focused tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawalpoudel&show_icons=true&locale=en" alt="ujjawalpoudel" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalpoudel&" alt="ujjawalpoudel" /></p>
+- 💼 Senior Python Engineer with strong experience in **backend systems & cloud architecture**
+- ⚡ Specialized in **Python, AWS (Lambda, Serverless), GraphQL APIs**
+- 🔬 Built ML solutions including **plant disease detection using deep learning**
+- ✍️ I write technical content and share knowledge
+
+---
+
+## 🔥 Featured Project (Looking for Collaborators)
+
+### 👉 IELTS Spelling Checker  
+🔗 https://github.com/ujjawalpoudel/ielts-spelling-checker
+
+> An intelligent tool designed to help IELTS students improve spelling accuracy using NLP techniques.
+
+### 🎯 Vision
+Build a **production-grade spelling correction system** tailored for IELTS writing tasks.
+
+### 🤝 Collaboration Opportunities
+I'm actively looking for contributors in:
+
+- NLP / Language Models
+- Frontend (React / UI improvements)
+- Backend optimization
+- Dataset building & evaluation
+- UX improvements for learners
+
+👉 If you're interested, feel free to open an issue or reach out directly.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Backend & Core
+- Python (Flask, FastAPI)
+- GraphQL APIs
+- RESTful systems
+
+### ☁️ Cloud & DevOps
+- AWS (Lambda, API Gateway, S3)
+- Serverless Architecture
+- CI/CD Pipelines
+
+### 📊 Data & AI/ML
+- Pandas, NumPy
+- Scikit-learn
+- TensorFlow
+- OpenCV
+
+### 🗄️ Databases
+- PostgreSQL
+- MongoDB
+
+---
+
+## 📂 Projects
+
+🔗 All projects:  
+👉 https://github.com/ujjawalpoudel?tab=repositories
+
+Some highlights:
+- AI/ML-based applications
+- Backend systems & APIs
+- Developer tools
+
+---
+
+## ✍️ Writing & Content
+
+📝 Articles & blogs:  
+👉 https://ghumante.com/author/ujjawal/
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ujjawalpoudel" target="blank">LinkedIn</a> •
+<a href="https://dev.to/ujjawalpoudel" target="blank">Dev.to</a> •
+<a href="https://medium.com/@ujjawalpoudel" target="blank">Medium</a> •
+<a href="https://twitter.com/ujwalpoudel" target="blank">Twitter</a> •
+<a href="https://kaggle.com/ujjawalpoudel" target="blank">Kaggle</a>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** ujjawalpoudel@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawalpoudel&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalpoudel" />
+</p>
+
+---
+
+## 💡 Philosophy
+
+> Build systems that scale.  
+> Write code that lasts.  
+> Create tools that people actually use.
